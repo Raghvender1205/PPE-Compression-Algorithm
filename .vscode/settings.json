@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.go": "go.mod",
+        "*.pyx": "cython",
+        "iostream.h": "c"
+    }
+}
